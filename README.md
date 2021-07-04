@@ -15,7 +15,9 @@ ImageLoading -> Picasso
 Testing -> Junit 4 , espresso  
 Api Testing -> Mock WebServer    
 Concurrency  -> Kotlin Coroutines  
-  
+   
+**Run the test**  
+After opening the project, expand the app folder, then src, after that test folder, now expand java and there is one folder named as com.android.feedapp package, after expanding it there is a class MockApiTest. Just click on run for the given functions.
   
 **Built using**  
 Andorid studio version -> Android Studio 4.2.1  
