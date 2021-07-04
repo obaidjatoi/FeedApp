@@ -1,0 +1,1185 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b7e23ef9-9053-5eb9-9d1d-5d0d2e5f5024",
+      "url": "https://www.nytimes.com/2021/06/27/us/miami-building-investigation-clues.html",
+      "id": 100000007836895,
+      "asset_id": 100000007836895,
+      "source": "New York Times",
+      "published_date": "2021-06-27",
+      "updated": "2021-07-03 11:38:43",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Surfside, Fla, Building Collapse (2021);Buildings (Structures);Engineering and Engineers;Building (Construction);Concrete;National Institute of Standards and Technology;Florida;Surfside (Fla)",
+      "column": null,
+      "byline": "By James Glanz, Anjali Singhvi and Mike Baker",
+      "type": "Article",
+      "title": "Possible Failure Point Emerges in Miami-Area Building Collapse",
+      "abstract": "Some engineers looking at the failure of a 13-story condo tower in Florida said the collapse appeared to have begun somewhere near the bottom of the building.",
+      "des_facet": [
+        "Surfside, Fla, Building Collapse (2021)",
+        "Buildings (Structures)",
+        "Engineering and Engineers",
+        "Building (Construction)",
+        "Concrete"
+      ],
+      "org_facet": [
+        "National Institute of Standards and Technology"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Surfside (Fla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8df3f467-5dc5-500d-b6d9-b6ce1541cab1",
+      "url": "https://www.nytimes.com/2021/06/22/arts/music/britney-spears-conservatorship.html",
+      "id": 100000007824721,
+      "asset_id": 100000007824721,
+      "source": "New York Times",
+      "published_date": "2021-06-22",
+      "updated": "2021-07-01 16:21:00",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Suits and Litigation (Civil);Mental Health and Disorders;Pop and Rock Music;Wills and Estates;Spears, Britney;Spears, Jamie (1952- )",
+      "column": null,
+      "byline": "By Liz Day, Samantha Stark and Joe Coscarelli",
+      "type": "Article",
+      "title": "Britney Spears Quietly Pushed for Years to End Her Conservatorship",
+      "abstract": "Confidential court records obtained by The Times reveal that the singer has urged changes to the arrangement that controls her life, and her father’s role in leading it.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Mental Health and Disorders",
+        "Pop and Rock Music",
+        "Wills and Estates"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Spears, Britney",
+        "Spears, Jamie (1952- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The relationship between Britney Spears, right, and her father, Jamie, is expected to be a central topic at a hearing in Los Angeles on Wednesday regarding the singer’s conservatorship.",
+          "copyright": "X17",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c0b61f00-cf65-5536-98d3-79fb9db7949f",
+      "url": "https://www.nytimes.com/2021/06/26/us/miami-building-collapse-investigation.html",
+      "id": 100000007836634,
+      "asset_id": 100000007836634,
+      "source": "New York Times",
+      "published_date": "2021-06-26",
+      "updated": "2021-07-03 11:59:38",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Surfside, Fla, Building Collapse (2021);Buildings (Structures);Building (Construction);Engineering and Engineers;Accidents and Safety;Concrete;Condominiums;Morabito, Frank P;Morabito Consultants;Surfside (Fla)",
+      "column": null,
+      "byline": "By Mike Baker, Anjali Singhvi and Patricia Mazzei",
+      "type": "Article",
+      "title": "Engineer Warned of ‘Major Structural Damage’ at Florida Condo Complex",
+      "abstract": "A consultant in 2018 urged the managers to repair cracked columns and crumbling concrete. The work was finally about to get underway when the building collapsed.",
+      "des_facet": [
+        "Surfside, Fla, Building Collapse (2021)",
+        "Buildings (Structures)",
+        "Building (Construction)",
+        "Engineering and Engineers",
+        "Accidents and Safety",
+        "Concrete",
+        "Condominiums"
+      ],
+      "org_facet": [
+        "Morabito Consultants"
+      ],
+      "per_facet": [
+        "Morabito, Frank P"
+      ],
+      "geo_facet": [
+        "Surfside (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A structural engineer detailed a range of problems at the Champlain Towers South complex, including poor waterproofing at the base of the building.",
+          "copyright": "Gerald Herbert/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/multimedia/25-miami-mystery-8/merlin_189906189_2afc50d2-000e-4386-8c39-d8dcb661f9ff-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5f8d5e14-8f28-50eb-8234-cb6ff39d2d0b",
+      "url": "https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html",
+      "id": 100000007797230,
+      "asset_id": 100000007797230,
+      "source": "New York Times",
+      "published_date": "2021-06-03",
+      "updated": "2021-06-25 18:29:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Unidentified Flying Objects (UFO);Classified Information and State Secrets;Espionage and Intelligence Services;United States Politics and Government;United States Defense and Military Forces;Pilots;Military Aircraft;Extraterrestrial Life;Office of the Director of National Intelligence;United States Navy",
+      "column": null,
+      "byline": "By Julian E. Barnes and Helene Cooper",
+      "type": "Article",
+      "title": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but Can’t Rule It Out, Either",
+      "abstract": "A new report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge.",
+      "des_facet": [
+        "Unidentified Flying Objects (UFO)",
+        "Classified Information and State Secrets",
+        "Espionage and Intelligence Services",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Pilots",
+        "Military Aircraft",
+        "Extraterrestrial Life"
+      ],
+      "org_facet": [
+        "Office of the Director of National Intelligence",
+        "United States Navy"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e25acf5-e7fd-582d-8218-1323367fe6e7",
+      "url": "https://www.nytimes.com/2021/06/22/business/economy/china-vaccines-covid-outbreak.html",
+      "id": 100000007818465,
+      "asset_id": 100000007818465,
+      "source": "New York Times",
+      "published_date": "2021-06-22",
+      "updated": "2021-06-28 21:21:51",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Vaccination and Immunization;Disease Rates;Coronavirus (2019-nCoV);Sinovac Biotech Ltd;China National Pharmaceutical Group Corp (Sinopharm);China;Seychelles Islands;Bahrain;Mongolia",
+      "column": null,
+      "byline": "By Sui-Lee Wee",
+      "type": "Article",
+      "title": "They Relied on Chinese Vaccines. Now They’re Battling Outbreaks.",
+      "abstract": "More than 90 countries are using Covid shots from China. Experts say recent infections in those places should serve as a cautionary tale in the global effort to fight the disease.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Disease Rates",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Sinovac Biotech Ltd",
+        "China National Pharmaceutical Group Corp (Sinopharm)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Seychelles Islands",
+        "Bahrain",
+        "Mongolia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A funeral in Kudus, Indonesia, in May. Many of the countries that are experiencing fresh coronavirus outbreaks despite high inoculation rates relied on Chinese-made vaccines.",
+          "copyright": "Antara Foto/via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/21/business/00china-vaccine-1/00china-vaccine-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/21/business/00china-vaccine-1/00china-vaccine-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/21/business/00china-vaccine-1/00china-vaccine-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/303e89af-3056-54a0-a8b3-940dfb0350f8",
+      "url": "https://www.nytimes.com/2021/06/19/style/subway-tuna-sandwich-lawsuit.html",
+      "id": 100000007585771,
+      "asset_id": 100000007585771,
+      "source": "New York Times",
+      "published_date": "2021-06-19",
+      "updated": "2021-06-21 16:57:40",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Tuna;Suits and Litigation (Civil);Subway Restaurants",
+      "column": null,
+      "byline": "By Julia Carmel",
+      "type": "Article",
+      "title": "The Big Tuna Sandwich Mystery",
+      "abstract": "A lawsuit against America’s largest sandwich chain has raised questions about America’s most popular canned fish. We tried to answer one: Is Subway selling tuna?",
+      "des_facet": [
+        "Tuna",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Subway Restaurants"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jason Nocito for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/09/fashion/09tuna3/09tuna3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/09/fashion/09tuna3/09tuna3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/09/fashion/09tuna3/09tuna3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d62b0d9-d96f-5c10-87a0-360dcb37dcbd",
+      "url": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html",
+      "id": 100000007838438,
+      "asset_id": 100000007838438,
+      "source": "New York Times",
+      "published_date": "2021-07-01",
+      "updated": "2021-07-02 10:24:00",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Tax Evasion;United States Politics and Government;Trump, Donald J;Weisselberg, Allen;Trump Organization",
+      "column": null,
+      "byline": "By Ben Protess, William K. Rashbaum and Jonah E. Bromwich",
+      "type": "Article",
+      "title": "Trump Organization Is Charged With Running 15-Year Employee Tax Scheme",
+      "abstract": "The company was accused of helping its executives evade taxes on compensation by hiding luxury perks and bonuses.",
+      "des_facet": [
+        "Tax Evasion",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Weisselberg, Allen"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Allen Weisselberg, center, Thursday afternoon at the Lower Manhattan building that houses the criminal courts and the district attorney’s office.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/01nytrump-indictment12-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment12/merlin_190213464_6cdeedae-9fb9-4ae3-9267-6fcda626c1c3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b941bbfb-cced-5270-8e94-ea3ec3bfb02a",
+      "url": "https://www.nytimes.com/2021/06/18/science/koepcke-diller-panguana-amazon-crash.html",
+      "id": 100000007768508,
+      "asset_id": 100000007768508,
+      "source": "New York Times",
+      "published_date": "2021-06-18",
+      "updated": "2021-06-22 00:13:52",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;Biodiversity;Animals;Insects;Research;Content Type: Personal Profile;your-feed-science;Diller, Juliane (1954- );Panguana Research Station (Peru);Amazon Jungle;Peru",
+      "column": null,
+      "byline": "By Franz Lidz",
+      "type": "Article",
+      "title": "She Fell Nearly 2 Miles, and Walked Away",
+      "abstract": "At 17, biologist Juliane Diller was the sole survivor of a plane crash in the Amazon. Fifty years later she still runs Panguana, a research station founded by her parents in Peru.",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Biodiversity",
+        "Animals",
+        "Insects",
+        "Research",
+        "Content Type: Personal Profile",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Panguana Research Station (Peru)"
+      ],
+      "per_facet": [
+        "Diller, Juliane (1954- )"
+      ],
+      "geo_facet": [
+        "Amazon Jungle",
+        "Peru"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Juliane Diller recently retired as deputy director of the Bavarian State Collection of Zoology in Munich. “The next thing I knew, I was no longer inside the cabin,” she recalled. “I hadn’t left the plane; the plane had left me.”",
+          "copyright": "Laetitia Vancon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/science/18SCI-SKYFALL1/18SCI-SKYFALL1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/668b76e2-5702-552e-b68b-0e02ff90f40e",
+      "url": "https://www.nytimes.com/2021/06/12/world/china-covid-delta-variant-guangzhou.html",
+      "id": 100000007810026,
+      "asset_id": 100000007810026,
+      "source": "New York Times",
+      "published_date": "2021-06-12",
+      "updated": "2021-06-30 12:08:04",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "internal-essential;Coronavirus (2019-nCoV);Fever;Guangzhou (China);China",
+      "column": null,
+      "byline": "By Keith Bradsher",
+      "type": "Article",
+      "title": "In China’s latest outbreak, doctors say the infected get sicker, faster.",
+      "abstract": "Four-fifths of symptomatic cases develop fevers, more than in earlier outbreaks. The findings match trends in other countries where the Delta variant is spreading.",
+      "des_facet": [
+        "internal-essential",
+        "Coronavirus (2019-nCoV)",
+        "Fever"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Guangzhou (China)",
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination center in Wuhan, China, on Wednesday. Doctors in the country say patients with the Delta variant are becoming sicker and their conditions are worsening more quickly than they did with the initial version.",
+          "copyright": "Getty Images/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/11/world/11virus-briefing-china/merlin_188976027_addd152b-c6c1-48ce-a4cd-a7ccfc126f1a-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/11/world/11virus-briefing-china/merlin_188976027_addd152b-c6c1-48ce-a4cd-a7ccfc126f1a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/11/world/11virus-briefing-china/merlin_188976027_addd152b-c6c1-48ce-a4cd-a7ccfc126f1a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6300573-0a3b-56d7-a586-1b5caa080777",
+      "url": "https://www.nytimes.com/2021/06/16/business/victorias-secret-collective-megan-rapinoe.html",
+      "id": 100000007814497,
+      "asset_id": 100000007814497,
+      "source": "New York Times",
+      "published_date": "2021-06-16",
+      "updated": "2021-06-21 14:14:59",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Lingerie and Underwear;Women and Girls;Advertising and Marketing;Shopping and Retail;#MeToo Movement;Rapinoe, Megan;Chopra, Priyanka;Gu, Eileen;Elsesser, Paloma;Wexner, Leslie H;Victoria's Secret;L Brands Inc",
+      "column": null,
+      "byline": "By Sapna Maheshwari and Vanessa Friedman",
+      "type": "Article",
+      "title": "Victoria’s Secret Swaps Angels for ‘What Women Want.’ Will They Buy It?",
+      "abstract": "The embattled lingerie giant is attempting the most extreme brand turnaround in recent memory: an effort to redefine not just itself but also the very idea of what “sexy” is.",
+      "des_facet": [
+        "Lingerie and Underwear",
+        "Women and Girls",
+        "Advertising and Marketing",
+        "Shopping and Retail",
+        "#MeToo Movement"
+      ],
+      "org_facet": [
+        "Victoria's Secret",
+        "L Brands Inc"
+      ],
+      "per_facet": [
+        "Rapinoe, Megan",
+        "Chopra, Priyanka",
+        "Gu, Eileen",
+        "Elsesser, Paloma",
+        "Wexner, Leslie H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paloma Elsesser, center, who calls herself “a 29-year-old mixed Black fem in a size 14 body,” said her decision to work with Victoria’s Secret “goes back to the sheer metrics of the situation.”",
+          "copyright": "Victoria’s Secret",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/17/business/17victoriassecret-5/17victoriasecret-5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/17/business/17victoriassecret-5/17victoriassecret-5-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/17/business/17victoriassecret-5/17victoriassecret-5-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/49bb1818-2931-514b-be81-29d592e2792d",
+      "url": "https://www.nytimes.com/2021/06/28/health/coronavirus-vaccines-immunity.html",
+      "id": 100000007836931,
+      "asset_id": 100000007836931,
+      "source": "New York Times",
+      "published_date": "2021-06-28",
+      "updated": "2021-06-30 10:29:59",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Vaccination and Immunization;Coronavirus (2019-nCoV);Immune System;Lymph Nodes and Lymphatic System;Antibodies;Moderna Inc;Nature (Journal);Pfizer Inc;BioNTech SE",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Pfizer and Moderna Vaccines Likely to Produce Lasting Immunity, Study Finds",
+      "abstract": "Immune cells are still organizing to fight the coronavirus months after inoculation, scientists reported.",
+      "des_facet": [
+        "your-feed-science",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Immune System",
+        "Lymph Nodes and Lymphatic System",
+        "Antibodies"
+      ],
+      "org_facet": [
+        "Moderna Inc",
+        "Nature (Journal)",
+        "Pfizer Inc",
+        "BioNTech SE"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A health care worker prepares to administer the Pfizer-BioNTech vaccine last month in Miami.",
+          "copyright": "Saul Martinez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/28/multimedia/28virus-immunity-02/28virus-immunity-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e99928ac-3b99-536a-b295-919784e522f5",
+      "url": "https://www.nytimes.com/2021/06/18/us/targeting-biden-catholic-bishops-advance-controversial-communion-plan.html",
+      "id": 100000007819044,
+      "asset_id": 100000007819044,
+      "source": "New York Times",
+      "published_date": "2021-06-18",
+      "updated": "2021-06-21 18:12:24",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Abortion;Religion-State Relations;United States Politics and Government;Biden, Joseph R Jr;Francis;Roman Catholic Church;United States Conference of Catholic Bishops",
+      "column": null,
+      "byline": "By Elizabeth Dias",
+      "type": "Article",
+      "title": "Targeting Biden, Catholic Bishops Advance Controversial Communion Plan",
+      "abstract": "The decision was aimed at the nation’s second Catholic president and exposed bitter divisions in American Catholicism.",
+      "des_facet": [
+        "Abortion",
+        "Religion-State Relations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Roman Catholic Church",
+        "United States Conference of Catholic Bishops"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Francis"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and the first lady, Jill Biden, attending Mass at St. Matthew’s in Washington the morning of his inauguration.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/us/18catholic-communion/merlin_182582481_e1f914b0-3673-4264-b8d8-cfddc82a1dca-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/us/18catholic-communion/merlin_182582481_e1f914b0-3673-4264-b8d8-cfddc82a1dca-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/18/us/18catholic-communion/merlin_182582481_e1f914b0-3673-4264-b8d8-cfddc82a1dca-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56530668-e4d8-5cae-959b-5abc781b3e85",
+      "url": "https://www.nytimes.com/2021/06/25/science/dragon-man-skull-china.html",
+      "id": 100000007829525,
+      "asset_id": 100000007829525,
+      "source": "New York Times",
+      "published_date": "2021-06-25",
+      "updated": "2021-06-28 02:15:14",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Archaeology and Anthropology;Paleontology;Fossils;Skull (Body Part);Evolution (Biology);Denisova Hominid;Neanderthal Man;Research;China;Harbin (China)",
+      "column": null,
+      "byline": "By Carl Zimmer",
+      "type": "Article",
+      "title": "Discovery of ‘Dragon Man’ Skull in China May Add Species to Human Family Tree",
+      "abstract": "A laborer discovered the fossil and hid it in a well for 85 years. Scientists say it could help sort out the human family tree and how our species emerged.",
+      "des_facet": [
+        "Archaeology and Anthropology",
+        "Paleontology",
+        "Fossils",
+        "Skull (Body Part)",
+        "Evolution (Biology)",
+        "Denisova Hominid",
+        "Neanderthal Man",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Harbin (China)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A virtual reconstruction of the Harbin cranium",
+          "copyright": "Xijun Ni",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/25/science/25dragonman-promo/25dragonman-promo-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8475c4e-8ca0-5eeb-92c4-c852a3734227",
+      "url": "https://www.nytimes.com/2021/06/23/us/politics/capitol-riot-sentencing.html",
+      "id": 100000007826312,
+      "asset_id": 100000007826312,
+      "source": "New York Times",
+      "published_date": "2021-06-23",
+      "updated": "2021-06-24 13:17:48",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);United States Politics and Government;Lamberth, Royce C;Trump, Donald J;Justice Department;Oath Keepers;Indiana",
+      "column": null,
+      "byline": "By Alan Feuer",
+      "type": "Article",
+      "title": "Indiana Woman Is First Person to Be Sentenced in Capitol Riot",
+      "abstract": "Anna Morgan-Lloyd, who will serve no prison time, said she realized that she and others who breached the Capitol may have helped encourage the violence by other Trump supporters.",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Oath Keepers"
+      ],
+      "per_facet": [
+        "Lamberth, Royce C",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Indiana"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The light penalty, three years of probation, is likely to serve as a bellwether for scores of other rioters who committed no violence on Jan. 6 and were accused of only minor crimes.",
+          "copyright": "Jason Andrew for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/us/politics/23dc-investigate/23dc-investigate-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/us/politics/23dc-investigate/23dc-investigate-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/us/politics/23dc-investigate/23dc-investigate-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fba1f182-ebf8-5319-ae75-277c67cf0118",
+      "url": "https://www.nytimes.com/2021/07/01/sports/olympics/abortion-doping-olympics-mcneal.html",
+      "id": 100000007839376,
+      "asset_id": 100000007839376,
+      "source": "New York Times",
+      "published_date": "2021-07-01",
+      "updated": "2021-07-03 13:31:36",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "nytdsection": "sports",
+      "adx_keywords": "Track and Field;Tests (Drug Use);Doping (Sports);Olympic Games (2020);Fines (Penalties);McNeal, Brianna (1991- );World Athletics",
+      "column": null,
+      "byline": "By Juliet Macur",
+      "type": "Article",
+      "title": "An Abortion, a Missed Drug Test and Altered Records Add Up to Trouble",
+      "abstract": "Brianna McNeal said she didn’t open her door to antidoping officials because she was traumatized after having an abortion. On Friday, a court upheld her five-year suspension.",
+      "des_facet": [
+        "Track and Field",
+        "Tests (Drug Use)",
+        "Doping (Sports)",
+        "Olympic Games (2020)",
+        "Fines (Penalties)"
+      ],
+      "org_facet": [
+        "World Athletics"
+      ],
+      "per_facet": [
+        "McNeal, Brianna (1991- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brianna McNeal, right, competing at the U.S. Olympic track and field trials last month in Eugene, Ore.",
+          "copyright": "Andy Lyons/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/03/sports/02doping-mcneal-print/merlin_189573321_171a2444-4e73-459d-9a7f-93aaa158fbc5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/df7bbd3c-1db8-5b20-81ad-3aa99f378240",
+      "url": "https://www.nytimes.com/2021/06/14/well/eat/coffee-health-benefits.html",
+      "id": 100000007807255,
+      "asset_id": 100000007807255,
+      "source": "New York Times",
+      "published_date": "2021-06-14",
+      "updated": "2021-06-21 09:18:20",
+      "section": "Well",
+      "subsection": "Eat",
+      "nytdsection": "well",
+      "adx_keywords": "Coffee;Caffeine;Sleep;Content Type: Service;Diabetes;Anxiety and Stress;Depression (Mental);Parkinson's Disease;Pregnancy and Childbirth;Antioxidants;Heart;Deaths (Fatalities);Willett, Walter C",
+      "column": null,
+      "byline": "By Jane E. Brody",
+      "type": "Article",
+      "title": "The Health Benefits of Coffee",
+      "abstract": "Drinking coffee has been linked to a reduced risk of all kinds of ailments, including Parkinson’s disease, melanoma, prostate cancer, even suicide.",
+      "des_facet": [
+        "Coffee",
+        "Caffeine",
+        "Sleep",
+        "Content Type: Service",
+        "Diabetes",
+        "Anxiety and Stress",
+        "Depression (Mental)",
+        "Parkinson's Disease",
+        "Pregnancy and Childbirth",
+        "Antioxidants",
+        "Heart",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Willett, Walter C"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/15/science/14sci-brody-coffee/14sci-brody-coffee-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/15/science/14sci-brody-coffee/14sci-brody-coffee-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/15/science/14sci-brody-coffee/14sci-brody-coffee-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7fe65680-23f7-5b52-a9bb-55e35700699d",
+      "url": "https://www.nytimes.com/2021/06/05/us/politics/biden-gag-order-new-york-times-leak.html",
+      "id": 100000007800252,
+      "asset_id": 100000007800252,
+      "source": "New York Times",
+      "published_date": "2021-06-05",
+      "updated": "2021-06-11 11:52:44",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "News Sources, Confidential Status of;Freedom of the Press;Newspapers;E-Mail;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;New York Times;Google Inc;Justice Department",
+      "column": null,
+      "byline": "By Charlie Savage and Katie Benner",
+      "type": "Article",
+      "title": "White House Disavows Knowledge of Gag Order on Times Leaders in Leak Inquiry",
+      "abstract": "The Justice Department also said it was changing its policy to bar seizing reporters’ phone and email records in hunts for their sources.",
+      "des_facet": [
+        "News Sources, Confidential Status of",
+        "Freedom of the Press",
+        "Newspapers",
+        "E-Mail",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Google Inc",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The White House press secretary, Jen Psaki, said in a statement that no one at the White House was aware of the gag order until Friday night.",
+          "copyright": "Erin Scott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/merlin_188734170_2dfb19e2-3403-4e44-b86a-9d5ce7557f95-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/05dc-leak-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/05dc-leak-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a9a6a9f9-4719-5079-9fa9-82b5f5ce7cce",
+      "url": "https://www.nytimes.com/2021/06/20/opinion/baseball-sexual-abuse-harassment.html",
+      "id": 100000007646659,
+      "asset_id": 100000007646659,
+      "source": "New York Times",
+      "published_date": "2021-06-20",
+      "updated": "2021-06-27 01:04:13",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Athletics and Sports;Baseball;Women and Girls;Sexual Harassment;#MeToo Movement;Sex Crimes;News and News Media;O'Brien, Kat (Journalist);Major League Baseball",
+      "column": null,
+      "byline": "By Kat O’Brien",
+      "type": "Article",
+      "title": "I Am Breaking My Silence About the Baseball Player Who Raped Me",
+      "abstract": "A professional athlete raping a reporter is a story about power in our society, and how men wield it against women.",
+      "des_facet": [
+        "Athletics and Sports",
+        "Baseball",
+        "Women and Girls",
+        "Sexual Harassment",
+        "#MeToo Movement",
+        "Sex Crimes",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "Major League Baseball"
+      ],
+      "per_facet": [
+        "O'Brien, Kat (Journalist)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": " ",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/27/opinion/21obrien1/21obrien1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/27/opinion/21obrien1/21obrien1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/27/opinion/21obrien1/21obrien1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/914bc6d3-50db-51a7-85c2-1c124164f242",
+      "url": "https://www.nytimes.com/2021/06/23/arts/music/britney-spears-conservatorship-hearing.html",
+      "id": 100000007830387,
+      "asset_id": 100000007830387,
+      "source": "New York Times",
+      "published_date": "2021-06-23",
+      "updated": "2021-07-01 16:21:12",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Suits and Litigation (Civil);Wills and Estates;Pop and Rock Music;Spears, Britney",
+      "column": null,
+      "byline": "By Joe Coscarelli",
+      "type": "Article",
+      "title": "Britney Spears: ‘I Just Want My Life Back’",
+      "abstract": "In a rare public appearance in court, the singer gave an impassioned speech about her treatment under the conservatorship that controls her life, telling the judge she would like it to end.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Wills and Estates",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Spears, Britney"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears’s life and finances have been controlled by a conservatorship since 2008. In court on Wednesday, she said she wants the arrangement to end.",
+          "copyright": "Mario Anzuoni/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/arts/23britney01/23britney01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/arts/23britney01/23britney01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/23/arts/23britney01/23britney01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d942c1ed-cde8-52e4-b6c1-c566c9deabe8",
+      "url": "https://www.nytimes.com/2021/06/24/world/canada/indigenous-children-graves-saskatchewan-canada.html",
+      "id": 100000007832196,
+      "asset_id": 100000007832196,
+      "source": "New York Times",
+      "published_date": "2021-06-24",
+      "updated": "2021-06-28 20:49:33",
+      "section": "World",
+      "subsection": "Canada",
+      "nytdsection": "world",
+      "adx_keywords": "Indigenous People;Private and Sectarian Schools;Deaths (Fatalities);Child Abuse and Neglect;Discrimination;Truth and Reconciliation Commission (Canada);Marieval Indian Residential School;Roman Catholic Church;Saskatchewan (Canada);Canada;British Columbia (Canada)",
+      "column": null,
+      "byline": "By Ian Austen and Dan Bilefsky",
+      "type": "Article",
+      "title": "Hundreds More Unmarked Graves Found at Former Residential School in Canada",
+      "abstract": "An Indigenous group said the remains of as many as 751 people, mainly children, had been found in unmarked graves on the site of a former boarding school in Saskatchewan.",
+      "des_facet": [
+        "Indigenous People",
+        "Private and Sectarian Schools",
+        "Deaths (Fatalities)",
+        "Child Abuse and Neglect",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Truth and Reconciliation Commission (Canada)",
+        "Marieval Indian Residential School",
+        "Roman Catholic Church"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Saskatchewan (Canada)",
+        "Canada",
+        "British Columbia (Canada)"
+      ],
+      "media": [],
+      "eta_id": 0
+    }
+  ]
+}
